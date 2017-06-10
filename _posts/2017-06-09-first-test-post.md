@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post - Hello World!
+comments: true
 ---
 Hi! This is first test post on this blog!
 
