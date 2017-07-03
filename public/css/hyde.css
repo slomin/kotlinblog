@@ -166,7 +166,18 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/*Custom CSS for cenetering the images and captions*/
 
+.center-image {
+    margin: 0 auto;
+    display: block;
+}
+
+.center-caption {
+  color:gray;
+  font-size: 80%;
+  text-align: center;
+}
 
 /*
  * Themes
