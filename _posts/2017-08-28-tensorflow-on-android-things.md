@@ -33,4 +33,4 @@ Of course, the network isn't perfect:
 
 ![Egg example]({{ site.url }}/images/android_things_2/tensor_5.jpg){: .center-image }
 
-The whole app's size is ~70MB. Keep in mind all the app's work is done offline, contained in a tiny RP3 body. I think future looks particularly promising with the advances in hardware (new cheaper and more powerful IoT platforms) and machine learning algorithms.
+The whole app's size is ~70MB. Keep in mind all the app's work is done offline, contained in a tiny RP3 body. It takes under one second to do the inference on the picture. I think future looks particularly promising with the advances in hardware (new cheaper and more powerful IoT platforms) and machine learning algorithms.
