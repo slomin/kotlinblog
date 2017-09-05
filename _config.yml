@@ -10,12 +10,12 @@ name:        KotlinBlog.com
 title:       KotlinBlog.com
 tagline:     'A blog about Kotlin programming language.'
 description: 'A blog about <a href="https://kotlinlang.org/" target="_blank">Kotlin</a> programming language. Made by a <a href="http://kotlinblog.com/about" target="_blank">mobile developer</a> tired of Java.'
-url:         http://kotlinblog.com
+url:         http://kotlinblog.com/
 baseurl:     /
 
 author:
   name:      'Jan Slominski'
-  url:       http://kotlinblog.com
+  url:       http://kotlinblog.com/
 
 paginate:    5
 
