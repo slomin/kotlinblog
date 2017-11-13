@@ -22,7 +22,7 @@ paginate:    5
 github:
   repo:      https://github.com/slomin
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
